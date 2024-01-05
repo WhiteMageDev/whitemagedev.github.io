@@ -4,6 +4,7 @@
   <h2> C# .NET </h2>
 </summary>
 
+<p><a href=https://github.com/WhiteMageDev/AutoClicker>AutoClicker</a> - Records and replays mouse click sequences.</p>
 - [AutoClicker](https://github.com/WhiteMageDev/AutoClicker) - Records and replays mouse click sequences.
 - [ScreenCraft](https://github.com/WhiteMageDev/ScreenCraft) - Capture, edit, and save screen images.
 - [openexchangerates-api](https://github.com/WhiteMageDev/openexchangerates-api) - Simple API based currency converter.
